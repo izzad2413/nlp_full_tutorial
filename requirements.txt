@@ -1,1 +1,6 @@
 nltk
+pandas 
+seaborn
+numpy
+matplotlib
+ipython

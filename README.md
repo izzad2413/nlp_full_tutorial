@@ -7,7 +7,7 @@ This is my personal complete NLP tutorials ranging from different AI/ML/DS autho
     - [Tokenization](https://github.com/izzad2413/nlp_full_tutorial/blob/main/notebooks/nltk/NLP-NLTK-tutorial-1.0-tokenization.ipynb): breaking down the text into smaller units
     - [Stemming](https://github.com/izzad2413/nlp_full_tutorial/blob/main/notebooks/nltk/NLP-NLTK-tutorial-2.0-stemming.ipynb): getting the root word
     - [Lemmatization](https://github.com/izzad2413/nlp_full_tutorial/blob/main/notebooks/nltk/NLP-NLTK-tutorial-3.0-lemmatization.ipynb): a better technique for getting the root word
-    - Stopwords:
+    - Stopwords: not important words that available in the text
     - [Full Implementation](https://github.com/izzad2413/nlp_full_tutorial/blob/main/notebooks/nltk/NLP-NLTK-tutorial-4.0-full-processing.ipynb)
 - Text Vectorization (text to numbers):
     - Bag of Words (BOW)
